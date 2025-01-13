@@ -1,2 +1,2 @@
-# autome-dev
-Projeto de introdução
+# AutoMe
+Descrição da AutoMe aqui
