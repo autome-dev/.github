@@ -1,2 +1,3 @@
 # AutoMe
-Descrição da AutoMe aqui
+Sua ferramenta para controle de veiculos seminovos
+https://app.autome.com.br/
