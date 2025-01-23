@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://app.autome.com.br/">
-    <img width="100" src="https://app.autome.com.br/AutomeLogoCompleta.svg">
+    <img width="300" src="https://app.autome.com.br/AutomeLogoCompleta.svg">
   </a>
 </p>
-
-<h3 align="center">AutoMe</h1>
+<hr />
 
 <p align="center">Sua ferramenta para controle de veiculos seminovos.</p> 
