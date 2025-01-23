@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://app.autome.com.br/">
-    <img width="100" src="https://app.autome.com.br/AutomeLogoCompleta.71400.svg">
+    <img width="100" src="https://app.autome.com.br/AutomeLogoCompleta.svg">
   </a>
 </p>
 
